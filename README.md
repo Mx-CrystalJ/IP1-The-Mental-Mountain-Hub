@@ -51,78 +51,67 @@ Live project: <a href="https://mx-crystalj.github.io/IP1-The-Mental-Mountain-Hub
 
 ## Project Outline
 
-The Mental Mountain Hub is a fictional organisation dedicated to the support of bettering the mental health of society members, focusing on providing a free guide to obtaining good mental health and regonising common signs. The page I created takes advantage of the idea that natrure is calming and a great way to turn looking after yoursef into a constant habit.
+The Mental Mountain Hub is a fictional organisation dedicated to the support of bettering the mental health of society members, focusing on providing a free guide to obtaining good mental health and regonising common signs. The page I created takes advantage of the idea that natrure is calming and a great way to turn looking after yoursef into a constant natural habit.
 
-The final deployment fufils the requirements through responsive to modern device standards, adheres to accessibility requirements and is aesthetically pleasing with a focus on the needs and well-being of in the intended end-user.
+The final deployment fufils the requirements being responsive to modern device standards, adheres to accessibility requirements and is aesthetically pleasing with a focus on needs and well-being.
 
 ### Key Objectives
 
-- A positive and appropriate user experience for autistic children and families utilising effective navigation and layout
-- Clear and concise presentation of content with easy to navigate options for additional information 
-- Responsive design that adheres to all necessary standards and accessibility requirements
-- Effective use of color and imagery ensuring consideration for the well-being of the end user
-- Inclusion of user-initiated actions providing immediate feedback
+- The user experience requires me to utilise effective navigation and layout in order to provide simplicity and calming effects.
+- Clear presentation of content with options for more information.
+- Responsive design adhering to standards and accessibility.
+- Color and imagery considers the well-being of the end user.
 
 ## UX Design
 
 ## User Stories 
 
-As a parent, I want to know the safeguarding measures in place so I can feel confident knowing my child will be safe during their guided sessions.
+Adults - I want to know the best way to improve and learn about my mental health so I can feel confident knowing that I am doing everything I can beyond waiting for referals to services. I want to easily find resources to support my self-help journey and possibly find other services that can be used.
 
-As a parent, I want to easily find additional resources to support my child knowing these will be similar to what they have already learned within the sessions to prevent confusion and frustration. 
+Students - I want to find resources that help me when I am feeling overwhelmed, anxious, stressed or depressed. I want to be able to talk to be abe to find resources to services where I can talk to someone when I am worried and need help managing my mental health.
 
-As a child, I want to find resources that help me when I am feeling overwhelmed. 
+Medical Professionals - I want to be able to reassure paitents that there are services that provide a safe and comforting environment with accurate and detailed information presented in a way that allows my paitents to futher their thirst for knowledge that will benifit their physical and mental health. I want to be an easy point of access to these resources that will supplement sessions and care plans by explaining anxiety, depression, ect.
 
-As a child, I want to be able to talk to someone when I am scared and need help.
-
-As a staff member, I want to be able to reassure children and parents that we provide a safe environment. 
-
-As a staff member, I want to be able to provide an easy point of access to resources to supplement our sessions.
-
-As a staff member, I want to provide an easy and secure method of communication, which may also include anonymity to protect those that feel unsafe. 
 
 <hr>
 <p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
 
 ## Colors
 
-Color selection is a key component to any design process, however with the nature of the project this consideration is even greater due to the needs of the end user and the potential for negatively impacting their well-being. 
+Color selection is a key component to any design process, however with the nature of the project this consideration is even greater because of the improtnt nature of mental health to the end user, there is a possibilty for negatively impacting their well-being, mental health and contibuting to trauma by overwhlming them hence the need for using as little colour for the bqacground as necessary to keep the flow.
 
-The artwork and color selection thus played a integral part in the design of this project as they were essential in creating a welcoming and appropriate page for the end user and their specific needs. After much research and inspiration, combining general color theory, autistic specific color theory, my own personal experience of working with autistic children and adults, as well as feedback, I was able to determine an appropriate color scheme that is aesthetically pleasing whilst being both calming and engaging. 
+The artwork of this project was essential in creating a welcoming and appropriate page for the end user and their specific needs. Combining general color theory in white space, mental health specific color theory, my own personal experience of bettering mental health, I was able to determine an appropriate color scheme that is aesthetically pleasing, calming and engaging.
 
 To ensure compliance to standards, the [Colour Contrast Checker](https://colourcontrast.cc/) (also available as extension on [Chrome Web Store](https://chromewebstore.google.com/detail/colour-contrast-checker/nmmjeclfkgjdomacpcflgdkgpphpmnfe)) was used.<br>
 Both the [WebAIM](https://webaim.org/resources/contrastchecker/) and the [Adobe](https://color.adobe.com/create/color-contrast-analyzer) color contrast tools were used to corroborate these results.
 
 ### Main Palette
 
-- Deep Sky Blue `#30C5FF` `--blue`
-- Pink Lavender `#E4B7E5` `--pink`
-- Russian Violet `#381A46` `--purple`
-- Spring Green `#21F383` `--green`
-- Vanilla `#EEEEA2` `--yellow`
+- Cyan `#a9ebe8` `--cyan light blue`
+- Light Blue `#E4B7E5` `--light blue`
+- White `#ffffff` `--white`
 
-![Color Contrast Checker Results](/documentation/images/color-contrast.gif)
 
-Due to the potential impact of color on autistic persons, additional research and feedback was sought out in order to ensure an appropriate selection was made for this project. Resources consulted can be found in the documentation for additional [research](/documentation/research.md).
+Due to the potential impact of color on autistic persons, additional research and feedback was sought out in order to ensure an appropriate selection was made for this project. Aditional research in the documentation for additional [research](/documentation/research.md).
 
 <hr>
 <p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
 
 ## Fonts
 
-As with color, font was a big consideration for ensuring a positive user experience whilst visiting the page.<br>
+When looking in Google Fonts I wanted to ensure a positive user experience whilst visiting the page in which they wuld be able to clearly see the sections and headings.<br>
 Two sans-serif fonts were selected for the project, and implemented via [Google Fonts](https://fonts.google.com) using a direct import code within the style.css file.
 
-[Fredoka](https://fonts.google.com/specimen/Fredoka) serves as playful font to be used within logos, headings other page elements of significance.
+[Lexend Giga](https://fonts.google.com/specimen/Lexend+Giga) ois a crisp and clear font used within logos, headings other page elements that need to be seen as important by the user.
 
-[Prompt](https://fonts.google.com/specimen/Prompt) is to be used as the primary content font ensuring ease of readability and complementing the Fredoka font choice. 
+[Prompt](https://fonts.google.com/specimen/Prompt) is the primary content font ensuring content importance and complementing the Lexend Giga font choice by being slightly bigger and thicker than the headings.
 
 <hr>
 <p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
 
 ### Wireframes
 
-These low-fidelity wireframes have been created using [Balsamiq](https://balsamiq.com/) to define the key feature layout to guide the user experience design. Utilising the [Bootstrap](https://getbootstrap.com/) framework and available components allows for the construction of a page that feels familiar for ease of navigation whilst also allowing for well structured content and a responsive design. 
+These low-fidelity wireframes have been created using [Balsamiq](https://balsamiq.com/) to define the key feature layout to guide the user experience design. Utilising the [Bootstrap](https://getbootstrap.com/) framework and available components allows for ease of navigation and structured content with a responsive design.
 
 **Mobile Wireframe**
 ![Mobile Wireframe](/documentation/images/wireframe-mobile.webp)

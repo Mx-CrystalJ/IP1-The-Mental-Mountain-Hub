@@ -2,13 +2,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Lexend+Giga:wght@100..900&family=Poiret+One&display=swap');
 
 
-body {}
+body {
+    background-color: #e7efeb;
+}
 
 
 h1,
 h2 {
-    font-family: 'Poiret One';
-
+    font-family: 'Poiret One'
 }
 
 h3,
@@ -55,7 +56,7 @@ p {
 
 /*Footer*/
 .footcol {
-    background-color: #a9ebe8;
+    background-color: #9aebe8;
 }
 
 #social-networks {
