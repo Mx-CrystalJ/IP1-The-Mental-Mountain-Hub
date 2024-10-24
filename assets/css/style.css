@@ -21,6 +21,12 @@ h4 {
     align-self: center;
 }
 
+.centered {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
 .smalltext {
     font-size: medium;
     text-align: center;
@@ -32,7 +38,6 @@ h4 {
 
 p {
     font-family: 'Poiret One';
-    font-optical-sizing: auto;
     font-weight: 800;
 }
 
@@ -89,6 +94,7 @@ li {
         width: 100%;
     }
 
+
 }
 
 
@@ -116,7 +122,7 @@ li {
     /* Header */
     .centercarousel {
         width: 75%;
-        justify-self: center;
+        Margin: 0 auto;
     }
 
 }

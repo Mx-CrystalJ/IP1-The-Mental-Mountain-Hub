@@ -1,17 +1,17 @@
 # The Mental Mountain Hub
 
-![The Mental Mountain Hub - Project Banner](pathlink)
+![The Mental Mountain Hub - Project Banner](/assets/images/The%20Mental%20Mountain%20Hub.png)
 
 
 <p align="center">
-| <a href="" target="_blank">Live Project</a> |
+| <a href="https://mx-crystalj.github.io/IP1-The-Mental-Mountain-Hub/" target="_blank">Live Project</a> |
 </p>
 
-## Introduction 
+## Introduction
 
-The Mental Mountain Hub is my first assessed portfolio project developed as part of the Code Institute Full Stack Software Developer Bootcamp, consisting of learning outcomes to utilise HTML5, CSS3 & Bootstrap in order to fulfil the necessary requirements for the brief provided about safeguarding.
+The Mental Mountain Hub represents the first individual portfolio project given to me for the Code Institute Full Stack Software Developer Bootcamp. The learning outcomes challenged me to utilise HTML5, CSS3 & Bootstrap to meet the requirements for the brief provided about mental health awareness.
 
-Live project: <a href="" target="_blank">The Mental Mountain Hub</a>
+Live project: <a href="https://mx-crystalj.github.io/IP1-The-Mental-Mountain-Hub/" target="_blank">The Mental Mountain Hub</a>
 
 <h2 align="center" id="TOC">Table of Contents</h2>
 
@@ -47,13 +47,13 @@ Live project: <a href="" target="_blank">The Mental Mountain Hub</a>
   - [Acknowledgements](#acknowledgements)
 
 
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+<p align="right"><a href="#the-mental-mountain-hub">Back To Top</a></p>
 
 ## Project Outline
 
-The Mental Mountain Hub is a fictional organisation dedicated to the support of autistic children and their families, with a primary focus on education and learning during weekly guided sessions. The page developed as part of this project documents the organisation's safeguarding policies and practices whilst offering information, support and contact options for children and parents alike.
+The Mental Mountain Hub is a fictional organisation dedicated to the support of bettering the mental health of society members, focusing on providing a free guide to obtaining good mental health and regonising common signs. The page I created takes advantage of the idea that natrure is calming and a great way to turn looking after yoursef into a constant habit.
 
-The final deliverable as well as fulfilling the content requirements is responsive to modern device standards, adheres to accessibility requirements and is aesthetically pleasing with a focus on the needs and well-being of in the intended end-user.
+The final deployment fufils the requirements through responsive to modern device standards, adheres to accessibility requirements and is aesthetically pleasing with a focus on the needs and well-being of in the intended end-user.
 
 ### Key Objectives
 
@@ -341,6 +341,7 @@ The additional [research](/documentation/research.md) has been compiled into lis
 ### Media
 
 - Static badges for README documentation [Shields.io](https://shields.io/badges/static-badge) & [Simple Icons](https://simpleicons.org/)
+- Youtube 
 
 ### Acknowledgements
 
