@@ -1,131 +1,350 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# The Mental Mountain Hub
 
-Welcome Crystal Johnson,
+![The Mental Mountain Hub - Project Banner](pathlink)
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
-You can safely delete this README.md file or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **June 18, 2024**
+<p align="center">
+| <a href="" target="_blank">Live Project</a> |
+</p>
 
-## Gitpod Reminders
+## Introduction 
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+The Mental Mountain Hub is my first assessed portfolio project developed as part of the Code Institute Full Stack Software Developer Bootcamp, consisting of learning outcomes to utilise HTML5, CSS3 & Bootstrap in order to fulfil the necessary requirements for the brief provided about safeguarding.
 
-`python3 -m http.server`
+Live project: <a href="" target="_blank">The Mental Mountain Hub</a>
 
-A blue button should appear to click: _Make Public_,
+<h2 align="center" id="TOC">Table of Contents</h2>
 
-Another blue button should appear to click: _Open Browser_.
+* [The Mental Mountain Hub](#the-mental-mountain-hub)
+  - [Introduction](#introduction)
+  - [Table of Contents](#TOC)
+  - [Project Ouline](#project-outline)
+* [Project Planning](#project-planning)
+    - [UX Design](#ux-design)
+      - [User Stories](#user-stories)
+      - [Colors](#colors)
+      - [Fonts](#fonts)
+      - [Imagery](#imagery)
+      - [Wireframes](#wireframes)
+* [Features](#features)
+  - [General Features](#general-features)
+    - [Navigation and Hero Section](#navigation-and-hero-section)
+    - [Bootstrap Cards](#bootstrap-cards)
+    - [Policies Section](#policies-section)
+    - [Footer](#footer)
+    - [Links and Buttons](#links-and-buttons)
+  - [Resnposive Design](#responsive-design)
+* [Built With](#built-with)
+  - [Technology and Languages](#technologies-and-languages)
+  - [Libraries and Frameworks](#libraries-and-frameworks)
+  - [Tools & Programs](#tools-and-programs)
+* [Development](#deployment)
+* [Testing](#testing)
+* [Credits](#credits)
+  - [Code](#code)
+  - [Content Research](#content-research)
+  - [Media](#media)
+  - [Acknowledgements](#acknowledgements)
 
-To run a backend Python file, type `python3 app.py` if your Python file is named `app.py`, of course.
 
-A blue button should appear to click: _Make Public_,
+<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
 
-Another blue button should appear to click: _Open Browser_.
+## Project Outline
 
-By Default, Gitpod gives you superuser security privileges. Therefore, you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+The Mental Mountain Hub is a fictional organisation dedicated to the support of autistic children and their families, with a primary focus on education and learning during weekly guided sessions. The page developed as part of this project documents the organisation's safeguarding policies and practices whilst offering information, support and contact options for children and parents alike.
 
-To log into the Heroku toolbelt CLI:
+The final deliverable as well as fulfilling the content requirements is responsive to modern device standards, adheres to accessibility requirements and is aesthetically pleasing with a focus on the needs and well-being of in the intended end-user.
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+### Key Objectives
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you, so do not share it. If you accidentally make it public, you can create a new one with _Regenerate API Key_.
+- A positive and appropriate user experience for autistic children and families utilising effective navigation and layout
+- Clear and concise presentation of content with easy to navigate options for additional information 
+- Responsive design that adheres to all necessary standards and accessibility requirements
+- Effective use of color and imagery ensuring consideration for the well-being of the end user
+- Inclusion of user-initiated actions providing immediate feedback
 
-### Connecting your Mongo database
+## UX Design
 
-- **Connect to Mongo CLI on a IDE**
-- navigate to your MongoDB Clusters Sandbox
-- click **"Connect"** button
-- select **"Connect with the MongoDB shell"**
-- select **"I have the mongo shell installed"**
-- choose **mongosh (2.0 or later)** for : **"Select your mongo shell version"**
-- choose option: **"Run your connection string in your command line"**
-- in the terminal, paste the copied code `mongo "mongodb+srv://<CLUSTER-NAME>.mongodb.net/<DBname>" --apiVersion 1 --username <USERNAME>`
-  - replace all `<angle-bracket>` keys with your own data
-- enter password _(will not echo **\*\*\*\*** on screen)_
+## User Stories 
 
-------
+As a parent, I want to know the safeguarding measures in place so I can feel confident knowing my child will be safe during their guided sessions.
 
-## Release History
+As a parent, I want to easily find additional resources to support my child knowing these will be similar to what they have already learned within the sessions to prevent confusion and frustration. 
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+As a child, I want to find resources that help me when I am feeling overwhelmed. 
 
-**June 18, 2024,** Add Mongo back into template
+As a child, I want to be able to talk to someone when I am scared and need help.
 
-**June 14, 2024,** Temporarily remove Mongo until the key issue is resolved
+As a staff member, I want to be able to reassure children and parents that we provide a safe environment. 
 
-**May 28 2024:** Fix Mongo and Links installs
+As a staff member, I want to be able to provide an easy point of access to resources to supplement our sessions.
 
-**April 26 2024:** Update node version to 16
+As a staff member, I want to provide an easy and secure method of communication, which may also include anonymity to protect those that feel unsafe. 
 
-**September 20 2023:** Update Python version to 3.9.17.
+<hr>
+<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+## Colors
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+Color selection is a key component to any design process, however with the nature of the project this consideration is even greater due to the needs of the end user and the potential for negatively impacting their well-being. 
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+The artwork and color selection thus played a integral part in the design of this project as they were essential in creating a welcoming and appropriate page for the end user and their specific needs. After much research and inspiration, combining general color theory, autistic specific color theory, my own personal experience of working with autistic children and adults, as well as feedback, I was able to determine an appropriate color scheme that is aesthetically pleasing whilst being both calming and engaging. 
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+To ensure compliance to standards, the [Colour Contrast Checker](https://colourcontrast.cc/) (also available as extension on [Chrome Web Store](https://chromewebstore.google.com/detail/colour-contrast-checker/nmmjeclfkgjdomacpcflgdkgpphpmnfe)) was used.<br>
+Both the [WebAIM](https://webaim.org/resources/contrastchecker/) and the [Adobe](https://color.adobe.com/create/color-contrast-analyzer) color contrast tools were used to corroborate these results.
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+### Main Palette
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+- Deep Sky Blue `#30C5FF` `--blue`
+- Pink Lavender `#E4B7E5` `--pink`
+- Russian Violet `#381A46` `--purple`
+- Spring Green `#21F383` `--green`
+- Vanilla `#EEEEA2` `--yellow`
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+![Color Contrast Checker Results](/documentation/images/color-contrast.gif)
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+Due to the potential impact of color on autistic persons, additional research and feedback was sought out in order to ensure an appropriate selection was made for this project. Resources consulted can be found in the documentation for additional [research](/documentation/research.md).
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+<hr>
+<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+## Fonts
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+As with color, font was a big consideration for ensuring a positive user experience whilst visiting the page.<br>
+Two sans-serif fonts were selected for the project, and implemented via [Google Fonts](https://fonts.google.com) using a direct import code within the style.css file.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+[Fredoka](https://fonts.google.com/specimen/Fredoka) serves as playful font to be used within logos, headings other page elements of significance.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+[Prompt](https://fonts.google.com/specimen/Prompt) is to be used as the primary content font ensuring ease of readability and complementing the Fredoka font choice. 
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+<hr>
+<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
 
-------
+### Wireframes
 
-## FAQ about the uptime script
+These low-fidelity wireframes have been created using [Balsamiq](https://balsamiq.com/) to define the key feature layout to guide the user experience design. Utilising the [Bootstrap](https://getbootstrap.com/) framework and available components allows for the construction of a page that feels familiar for ease of navigation whilst also allowing for well structured content and a responsive design. 
 
-**Why have you added this script?**
+**Mobile Wireframe**
+![Mobile Wireframe](/documentation/images/wireframe-mobile.webp)
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+**Tablet Wireframe**
+![Tablet Wireframe](/documentation/images/wireframe-tablet.webp)
 
-**How will this affect me?**
+**Desktop Wireframes**
+![Desktop Wireframe 1](/documentation/images/wireframe-desktop-1.webp)
+![Desktop Wireframe 2](/documentation/images/wireframe-desktop-2.webp)
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+<hr>
+<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+## Imagery
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+The image selection became a key influence in the design of the overall project, including naming and branding.
 
-**So….?**
+With the requirements of the end user in mind, I sought out images that would fulfil specific criteria;
+- Strong thematic link that could be used for branding purposes
+- Easily identifiable and appealing to the target audience
+- Promote inclusivity
+- Have wide variety for appropriate use and relevance across project
+- Adhere to color research to maintain user well-being
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+After seeking out many options including animal images in the same style, I opted to use the Astronaut.
 
-**Can I opt out?**
+This selection of images fulfilled the criteria set out and offered further inspiration. 
+- Astronaut character maintains consistent theme and works well as brand image and name
+- Usage of the same character makes the images eaily identifiable and has a fun and playful appeal
+- Adopting research that has been applied to comic book superheroes, the use of a mask to hide identity allows the character to adopt universal representation and inclusivity
+- The images available using this character was great in number (more than included here) which would allow for relevant inclusion across the project and future implementation
+- The images not only adhered to the color requirements, but also informed minor adjustments to the color palette
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+Before implementing the images into the project I used [Affinity Photo 2](https://affinity.serif.com/en-gb/photo/) to make some minor adjustments. This included removing background colors, removing hearts that felt inappropriate to the end user and converting them to webp formatting to follow current standards.
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+![Astronaut Images](/documentation/images/images.gif)
+- Astronaut Artwork: Designed by [Freepik](http://www.freepik.com/) - Following [Attributation Policy](https://support.freepik.com/s/article/Attribution-How-when-and-where?language=en_US)
 
-**Anything more?**
+During my process of seeking out feedback for UX my decision to include the astronaut character based up on the anonymity and thus inclusivity was confirmed to be a positive one.
+![Mobile Wireframe](/documentation/images/space_mumma.png)
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+<hr>
+<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
 
----
+## Features
 
-Happy coding!
+### General Features
+
+In order to fulfil the criteria the page consists of various sectioned information each with a variety of links, resources and other elements that contribute to a positive user experience. 
+
+Upon coding the project, receiving feedback and implementing the [Bootstrap Framework](https://getbootstrap.com/docs/5.3/getting-started/introduction/) the features and design shifted slightly from the original wireframe.
+
+Some key adjustments: 
+
+- The inclusion of buttons within the hero section.<br>
+This was done to reflect the clearly definied section of content and provide the user an easy navigation link to the section they would most likely be seeking to interact with. 
+
+- Opting not centre all content within their respective parents.<br>
+This decision was made as a result of personal reflection and user feedback to provide a more enjoyable user experience.
+
+#### Navigation and Hero Section
+
+I chose to use a bold and welcoming hero section for the start of the page using the [Bootstrap Jumbotron](https://getbootstrap.com/docs/5.3/examples/jumbotron/)
+
+This gives a clear indication of the content as well as imagery that links to the brand and identity of the organisation.
+
+Within this section I have included two buttons that present easy to navigate options for the user to access the relevant section of the page for their needs.
+
+The navigation bar is a Bootstrap component that allows for easy navigation around the site using a familiar method for a positive user experience.
+
+![Navigation & Hero](/documentation/images/nav-and-hero.webp)
+
+#### Bootstrap Cards
+
+I opted to utilise the [Bootstrap Card](https://getbootstrap.com/docs/5.3/components/card/) feature for the main content of the page as this allowed for a clean organisation of the information. 
+
+Within these sections I have also opted to provide additional resources, links and access to contact modals via buttons for ease.
+
+For balance I also gave the cards a consistent height by adding the `h-100` class.
+
+![Cards](/documentation/images/cards.webp)
+
+#### Policies Section
+
+Mirroring the design of the hero section, I have included a safeguarding policies section for the organisation giving basic details and providing a link to download the policy in full. 
+
+This section not only serves as a vital area for information, but also as a visual divider between the card sections aimed at parents and their families. 
+
+![Policies Section](/documentation/images/policies.webp)
+
+#### Footer
+
+For the footer again I implemented a [Bootstrap](https://getbootstrap.com/docs/5.3/examples/footers/) component.
+
+Here I have used the bold contrast of the purple to distinguish it apart from the rest of the page allowing it to be easily identifiable across the whole website.
+
+The information provided in this section is considered somewhat standard and provides for a user experience that is easy to understand. 
+
+#### Links and Buttons
+
+Although the page used a variety of colours for buttons to adhere to contrast requirements, each link and button does maintain a level of consistency by utilising the `var(--blue)` as part of it's `:hover` status in some way.
+
+<hr>
+<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+
+### Responsive Design
+
+Utilising the [Bootstrap Framework](https://getbootstrap.com/docs/5.3/getting-started/introduction/) allowed for an implementation that is responsive without the need for additional CSS or media queries.
+
+Though it took some experimentation and troubleshooting, I have been able to create a page that is fully responsive to modern standards.
+
+This has proven to be a very valuable learning experience in the use of frameworks.
+As a result of my debugging within Dev Tools in order to identify and resolve responsiveness issues I believe I have a much greater understanding of how to adpat Bootstrap for use within future projects. 
+
+During testing it was apparent that `display-6` was too large for the navbar brand text so this was removed to increase responsivity.
+
+[Am I Responsive](https://ui.dev/amiresponsive?url=https://therickyroy.github.io/astronauts-for-autism/)<br>
+![Am I Responsive](/documentation/images/responsive.webp)<br>
+![Mobile](/documentation/images/mobile.webp)<br>
+![ipad Mini](/documentation/images/ipad-mini.webp)<br>
+![Dektop](/documentation/images/desktop.webp)<br>
+
+<hr>
+<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+
+
+## Built With
+
+### Technologies and Languages
+![Static Badge](https://img.shields.io/badge/HTML5-Language-grey?logo=html5&logoColor=%23ffffff&color=%23E34F26)
+![Static Badge](https://img.shields.io/badge/CSS3-Language-grey?logo=css3&logoColor=%23ffffff&color=%231572B6)
+
+<a href="https://git-scm.com/" target=_blank_>![Static Badge](https://img.shields.io/badge/Git-v2.46.2-grey?logo=git&logoColor=%23ffffff&color=%23F05032)</a>
+<a href="https://github.com/" target="_blank">![Static Badge](https://img.shields.io/badge/GitHub-Repo_Hosting-white?logo=github&logoColor=%23ffffff&color=%23181717)</a>
+<a href="https://www.gitpod.io/" target="_blank">![Static Badge](https://img.shields.io/badge/Gitpod-IDE-white?logo=gitpod&logoColor=%23ffffff&color=%23FFAE33)</a>
+
+### Libraries and Frameworks
+<a href="https://getbootstrap.com/" target="_blank">![Static Badge](https://img.shields.io/badge/Bootstrap-v5.3.3-grey?logo=bootstrap&logoColor=%23ffffff&color=%237952B3)</a>
+<a href="#" target="_blank">![Static Badge](https://img.shields.io/badge/Font_Awesome-Icons-grey?logo=fontawesome&logoColor=%23ffffff&color=%23538DD7)</a>
+<a href="#" target="_blank">![Static Badge](https://img.shields.io/badge/Google_Fonts-Fonts-grey?logo=googlefonts&logoColor=%23ffffff&color=%234285F4)</a>
+
+
+### Tools and Programs
+<a href="https://affinity.serif.com/en-gb/" target="_blank">![Static Badge](https://img.shields.io/badge/Affinity-Photo%202-grey?logo=affinityphoto&logoColor=%23ffffff&color=%234E3188)</a>
+<a href="https://balsamiq.com/wireframes/" target="_blank">![Static Badge](https://img.shields.io/badge/Balsamiq-Wireframes-grey?logoColor=%23ffffff&color=%23CC0100)</a>
+<a href="https://ezgif.com/maker" target="_blank">![Static Badge](https://img.shields.io/badge/Ezgif-GIF_Maker-grey?logoColor=%23ffffff&color=%23ffffff)</a>
+
+
+<hr>
+<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+
+## Deployment
+
+
+This [GitHub](https://github.com/) project was created using the [Code Institute Template](https://github.com/Code-Institute-Org/ci-full-template) ensuring all necessary dependencies were included when opening within the designated workspace on the [Gitopod IDE](https://www.gitpod.io/).
+
+Setup a repo using this method and template:
+1. Login to your GitHub profile.
+2. Navigate to the Code Institute Full Template
+3. Click the dropdown for 'Use this template' and select "Create a new repository"
+4. Generate the necessary name and description for your repo and click 'Create repository from template'
+5. Navigate to the new repo and click the green 'Open' button with the Gitpod logo<br>
+**IMPORTANT - This button should only be clicked once to generate the new IDE workspace**
+6. You can now work on your repository within the Code Institute Gitpod IDE workspace
+
+Once the project repo is created, an early deployment for the live project should performed.<br>
+This allows for early and continuous testing using a variety of devices, as well as the Dev Tools available within browsers.
+
+Additional information on the deployment process can be found on the official [GitHub Docs](https://docs.github.com/en/pages/quickstart)
+
+
+
+<hr>
+<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+
+## Testing
+
+Testing and validation os the website was carried out throughout the course of the project.
+
+This included regular debugging and testing using the Dev Tools as provided within Chrome Browser.
+
+[HTML Validation](https://validator.w3.org/)<br>
+![HTML Validation](/documentation/images/validation-html.webp)
+
+[CSS Validation](https://jigsaw.w3.org/css-validator/)<br>
+![CSS Validation](/documentation/images/validation-css.webp)
+
+[Lighthouse](https://developer.chrome.com/docs/lighthouse/overview)<br>
+![Lighthouse](/documentation/images/lighthouse.webp)
+
+<hr>
+<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+
+## Credits
+
+### Code
+
+Project and primary learning supplied by [Code Institute](https://codeinstitute.net/ie/)<br>
+Supplemental learning resources directly used / referenced within the project:
+
+- 
+- [Bootstrap Docs](https://getbootstrap.com/docs/5.3)
+- [Bootstrap 5 Crash Course Tutorial #9 - Navbars - YouTube](https://www.youtube.com/watch?v=7AT1X9Z41sA&t=677s)
+- [CSS Variables - The var() function](https://www.w3schools.com/css/css3_variables.asp)
+- [Gemini](https://gemini.google.com) as a learning tool, no code was directly used
+- [Make cards same height side-by-side in Bootstrap 5 - YouTube](https://www.youtube.com/watch?v=wolSRMGJ-Ls)
+- [Mozilla - mdn web docs](https://developer.mozilla.org/)
+
+All additional sources that complemented my learning can be round within additional [research](/documentation/research.md).
+
+### Content Research
+
+The additional [research](/documentation/research.md) has been compiled into list and can be found within the documentation folder of this repo. 
+
+### Media
+
+- Static badges for README documentation [Shields.io](https://shields.io/badges/static-badge) & [Simple Icons](https://simpleicons.org/)
+
+### Acknowledgements
+
+- 
+
+<hr>
+<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
