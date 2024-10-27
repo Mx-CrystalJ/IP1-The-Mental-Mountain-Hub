@@ -68,19 +68,19 @@ The final deployment fufils the requirements being responsive to modern device s
 
 Adults - I want to know the best way to improve and learn about my mental health so I can feel confident knowing that I am doing everything I can beyond waiting for referals to services. I want to easily find resources to support my self-help journey and possibly find other services that can be used.
 
-Students - I want to find resources that help me when I am feeling overwhelmed, anxious, stressed or depressed. I want to be able to talk to be abe to find resources to services where I can talk to someone when I am worried and need help managing my mental health.
+Students/Children - I want to find resources that help me when I am feeling overwhelmed, anxious, stressed or depressed. I want to be able to talk to be abe to find resources to services where I can talk to someone when I am worried and need help managing my mental health.
 
 Medical Professionals - I want to be able to reassure paitents that there are services that provide a safe and comforting environment with accurate and detailed information presented in a way that allows my paitents to futher their thirst for knowledge that will benifit their physical and mental health. I want to be an easy point of access to these resources that will supplement sessions and care plans by explaining anxiety, depression, ect.
 
 
 <hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+<p align="right"><a href="#the-mental-mountain-hub">Back To Top</a></p>
 
 ## Colors
 
 Color selection is a key component to any design process, however with the nature of the project this consideration is even greater because of the improtant nature of mental health to the end user, there is a possibilty for negatively impacting their well-being, mental health and contibuting to trauma by overwhlming them hence the need for using as little colour for the background as necessary to keep the flow.
 
-The artwork of this project was essential in creating a welcoming and appropriate page for the end user and their specific needs. Combining general color theory in white space, mental health specific color theory, my own personal experience of bettering mental health, I was able to determine an appropriate color scheme that is aesthetically pleasing, calming and engaging.
+The artwork of this project was essential in creating a welcoming and appropriate page for the end user and their specific needs. Combining general color theory in white space, mental health specific color theory, my own personal experience of bettering mental health and design, I was able to determine an appropriate color scheme that is aesthetically pleasing, calming and engaging.
 
 To ensure compliance to standards, the [Colour Contrast Checker](https://colourcontrast.cc/) (also available as extension on [Chrome Web Store](https://chromewebstore.google.com/detail/colour-contrast-checker/nmmjeclfkgjdomacpcflgdkgpphpmnfe)) was used.<br>
 Both the [WebAIM](https://webaim.org/resources/contrastchecker/) and the [Adobe](https://color.adobe.com/create/color-contrast-analyzer) color contrast tools were used to corroborate these results.
@@ -91,8 +91,14 @@ Both the [WebAIM](https://webaim.org/resources/contrastchecker/) and the [Adobe]
 - Light Blue `#E4B7E5` `--light blue`
 - White `#ffffff` `--white`
 - Light Green `#efefeb` `--light green`
+- Black `#000000` `--black`
 
-Due to the potential impact of color on mental health, additional research and feedback was sought out in order to ensure an appropriate selection was made for this project. Aditional research in the documentation for additional [research](/documentation/research.md).
+[ColorContrastChecker](/documentation/images/Color%20Contrast%20Checker%201.png)
+[Adobe](/documentation/images/Color%20Contrast%20Checker%202.png)
+[WebAIM](/documentation/images/Color%20Contrast%20Checker%203.png)
+
+
+Due to the potential impact of color on mental health, additional research and feedback was found to ensure an appropriate selection was made for this project. Additional research in the documentation [research](/documentation/research.md).
 
 <hr>
 <p align="right"><a href="#the-mental-mountain-hub">Back To Top</a></p>
@@ -111,46 +117,41 @@ Two sans-serif fonts were selected for the project, and implemented via [Google 
 
 ### Wireframes
 
-These low-fidelity wireframes have been created using [Balsamiq](https://balsamiq.com/) to define the key feature layout to guide the user experience design. Utilising the [Bootstrap](https://getbootstrap.com/) framework and available components allows for ease of navigation and structured content with a responsive design.
+These wireframes were created using [Balsamiq](https://balsamiq.com/) to highlight key features in the layout that work to guide the user experience. While using a [Bootstrap](https://getbootstrap.com/) framework with its available components that allow for ease of navigation and structured content with a fully responsive design.
 
 **Mobile Wireframe**
-![Mobile Wireframe](/documentation/images/wireframe-mobile.webp)
+![Mobile Wireframe](/documentation/images/Initial%20Plan%20iPhone.png)
 
 **Tablet Wireframe**
-![Tablet Wireframe](/documentation/images/wireframe-tablet.webp)
+![Tablet Wireframe](/documentation/images/Initial%20Plan%20iPad.png)
 
 **Desktop Wireframes**
-![Desktop Wireframe 1](/documentation/images/wireframe-desktop-1.webp)
-![Desktop Wireframe 2](/documentation/images/wireframe-desktop-2.webp)
+![Desktop Wireframe 1](/documentation/images/Initial%20Plan%20Desktop.png)
+
 
 <hr>
 <p align="right"><a href="the-mental-mountain-hub">Back To Top</a></p>
 
 ## Imagery
 
-The image selection became a key influence in the design of the overall project, including naming and branding.
+The image I selected became a key influence and neccessary in the design of the overall project, including the naming, branding and metaphors.
 
-With the requirements of the end user in mind, I sought out images that would fulfil specific criteria;
-- Strong thematic link that could be used for branding purposes
-- Easily identifiable and appealing to the target audience
-- Promote inclusivity
-- Have wide variety for appropriate use and relevance across project
-- Adhere to color research to maintain user well-being
+With the requirements of the end user, I found an image that would fulfil the specific criteria;
+- Thematic link to mental health that could be used for branding purposes
+- Identifiable, appealing, and calming to the target audiences
+- Promotes inclusivity and equality by being without a specfic target
+- Variety for use and relevance in the project
+- Follows color research to maintain user well-being
 
-After seeking out many options including animal images in the same style, I opted to use the Astronaut.
+After looking through nature inspired images, I choose the mountains and lake during sunset.
 
-This selection of images fulfilled the criteria set out and offered further inspiration. 
-- Astronaut character maintains consistent theme and works well as brand image and name
-- Usage of the same character makes the images eaily identifiable and has a fun and playful appeal
-- Adopting research that has been applied to comic book superheroes, the use of a mask to hide identity allows the character to adopt universal representation and inclusivity
-- The images available using this character was great in number (more than included here) which would allow for relevant inclusion across the project and future implementation
-- The images not only adhered to the color requirements, but also informed minor adjustments to the color palette
+This selection fulfilled the criteria set out and offered further inspiration.
+- It maintains a consistent theme and works well as a brand image and name
+- Usage of the same image easily identifiable and has a calming minfullness appeal
+- Adopting research that has been applied to mental health, the use of nature adopts universal representation and inclusivity
+- The image follows color requirements, but also informed adjustments to the color palette
 
-![Astronaut Images](/documentation/images/images.gif)
-- Astronaut Artwork: Designed by [Freepik](http://www.freepik.com/) - Following [Attributation Policy](https://support.freepik.com/s/article/Attribution-How-when-and-where?language=en_US)
-
-During my process of seeking out feedback for UX my decision to include the astronaut character based up on the anonymity and thus inclusivity was confirmed to be a positive one.
-![Mobile Wireframe](/documentation/images/space_mumma.png)
+![Mountain Image](/assets/images/73bfb902-44a1-4f97-b790-0d6099074d69.jpg)
 
 <hr>
 <p align="right"><a href="#the-mental-mountain-hub">Back To Top</a></p>
@@ -159,33 +160,32 @@ During my process of seeking out feedback for UX my decision to include the astr
 
 ### General Features
 
-In order to fulfil the criteria the page consists of various sectioned information each with a variety of links, resources and other elements that contribute to a positive user experience. 
+The criteria requested that the page consists of sectioned information with links, resources and other elements that contribute to user experience.
 
-Upon coding the project, receiving feedback and implementing the [Bootstrap Framework](https://getbootstrap.com/docs/5.3/getting-started/introduction/) the features and design shifted slightly from the original wireframe.
+When coding the project, receiving feedback and implementing the [Bootstrap Framework](https://getbootstrap.com/docs/5.3/getting-started/introduction/) the features and design changed from the original wireframe and colour scheme.
 
-Some key adjustments: 
+Adjustments:
 
-- The inclusion of buttons within the hero section.<br>
-This was done to reflect the clearly definied section of content and provide the user an easy navigation link to the section they would most likely be seeking to interact with. 
+- Adding a button within the hero section.<br>
+This was done to provide the user an easy navigation link to the resources section they would most likely be seeking to interact with when needing immediate help.
 
-- Opting not centre all content within their respective parents.<br>
-This decision was made as a result of personal reflection and user feedback to provide a more enjoyable user experience.
+- Changing the Navbar to the top of the page instead of under the hero section.<br>
+This decision was made as a result of personal reflection and user feedback to provide a more enjoyable user experience because the hero section doesn't include the sites name and when viewed on an iPad or mobile device the section takes the users attention.
 
 #### Navigation and Hero Section
 
 I chose to use a bold and welcoming hero section for the start of the page using the [Bootstrap Jumbotron](https://getbootstrap.com/docs/5.3/examples/jumbotron/)
 
-This gives a clear indication of the content as well as imagery that links to the brand and identity of the organisation.
+This gives a clear indication of the content by using a Slider Jumbotron to show positive quotes as well as imagery that links to the brand and identity of the organisation.
 
-Within this section I have included two buttons that present easy to navigate options for the user to access the relevant section of the page for their needs.
+The navigation bar is a Bootstrap component that allows for easy navigation around the site using a familiar method for a positive user experience that is resposive.
 
-The navigation bar is a Bootstrap component that allows for easy navigation around the site using a familiar method for a positive user experience.
-
-![Navigation & Hero](/documentation/images/nav-and-hero.webp)
+![Navigation & Hero Desktop](/documentation/images/Desktop%20Hero%20+%20Nav.png)
+![Navigation & Hero Mobile/Tablet](/documentation/images/Phone%20+%20Tablet%20Hero%20+%20Nav.png)
 
 #### Bootstrap Cards
 
-I opted to utilise the [Bootstrap Card](https://getbootstrap.com/docs/5.3/components/card/) feature for the main content of the page as this allowed for a clean organisation of the information. 
+I chose the [Bootstrap Card](https://getbootstrap.com/docs/5.3/components/card/) feature for the main content of the page as this allowed for a clean organisation of the information. 
 
 Within these sections I have also opted to provide additional resources, links and access to contact modals via buttons for ease.
 
@@ -224,7 +224,7 @@ Though it took some experimentation and troubleshooting, I have been able to cre
 
 This has proven to be a very valuable learning experience in the use of frameworks.
 As a result of my debugging within Dev Tools in order to identify and resolve responsiveness issues I believe I have a much greater understanding of how to adpat Bootstrap for use within future projects. 
-
+  
 During testing it was apparent that `display-6` was too large for the navbar brand text so this was removed to increase responsivity.
 
 [Am I Responsive](https://ui.dev/amiresponsive?url=https://therickyroy.github.io/astronauts-for-autism/)<br>
@@ -254,7 +254,7 @@ During testing it was apparent that `display-6` was too large for the navbar bra
 
 
 ### Tools and Programs
-<a href="https://affinity.serif.com/en-gb/" target="_blank">![Static Badge](https://img.shields.io/badge/Affinity-Photo%202-grey?logo=affinityphoto&logoColor=%23ffffff&color=%234E3188)</a>
+
 <a href="https://balsamiq.com/wireframes/" target="_blank">![Static Badge](https://img.shields.io/badge/Balsamiq-Wireframes-grey?logoColor=%23ffffff&color=%23CC0100)</a>
 <a href="https://ezgif.com/maker" target="_blank">![Static Badge](https://img.shields.io/badge/Ezgif-GIF_Maker-grey?logoColor=%23ffffff&color=%23ffffff)</a>
 
