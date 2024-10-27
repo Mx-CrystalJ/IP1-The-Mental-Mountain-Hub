@@ -7,29 +7,31 @@ This list contains resources that were useful in the design process and for maki
 ### Mental Health Support
 
 - [CALM - Color Theory](https://www.calm.com/blog/color-therapy)
-
-
-- [Daybreak - 7 Calming Strategies for Autism Every Parent or Guardian Should Know](https://www.daybreakis.org/news-stories/7-calming-strategies-for-autism-every-parent-or-guardian-should-know)
-- [Dimensions - Autism Friendly Gaming with Belong by GAME](https://dimensions-uk.org/get-involved/campaigns/autism-friendly-with-belong-by-game/)
-- [FullFabric - How to design visual learning resources for neurodiverse students](https://www.fullfabric.com/articles/how-to-design-visual-learning-resources-for-neurodiverse-students)
-- [Liaise - Autism Symbols: What Do They Mean?](https://liaise.com/autism-symbols-what-do-they-mean/)
-- [NAS - Safeguarding young people on the autism spectrum](https://www.autism.org.uk/shop/products/books-and-resources/safeguarding-young-people)
-- [NAS - Stories from the Spectrum: Barrington Campbell](https://www.autism.org.uk/advice-and-guidance/stories/stories-from-the-spectrum-barrington)
-- [NAS - What is autism?](https://www.autism.org.uk/advice-and-guidance/what-is-autism)
-- [NHS - Where To Get Autism Support](https://www.nhs.uk/conditions/autism/support/)
-- [PDI - Making documents accessible for all learners including those with dyslexia or autism](https://www.pdi.co.uk/insights/making-documents-accessible-for-all-learners-including-those-with-dyslexia-or-autism)
-- [PPG Paints - Paint Color Choices For Autistic Persons](https://www.ppgpaints.com/paint-colors-for-autism)
-- [Spectrum Gaming](https://www.spectrumgaming.net/) | [Specturm Safeguarding PDF](https://www.spectrumgaming.net/_files/ugd/5e18e8_36b159edca2e4b3692c4023ee1959506.pdf)
-- [Wellness Hub - Understanding Autism: The Colours to Avoid for a Harmonious Environment](https://www.mywellnesshub.in/blog/autism-color-impact-guide/)
-
+- [MIND - Mental health problems – an introduction](https://www.mind.org.uk/information-support/types-of-mental-health-problems/mental-health-problems-introduction/self-care/)
+- [NHS - Mindfulness](https://www.nhs.uk/mental-health/self-help/tips-and-support/mindfulness/)
+- [Goodhouse Keeping - 60 Powerful Mental Health Quotes to Inspire and Uplift You](https://www.goodhousekeeping.com/life/a39739060/mental-health-quotes/)
+- [PositivePsychology.com - Positive Daily Affirmations: Is There Science Behind It?](https://positivepsychology.com/daily-affirmations/)
+- [Anxiety UK](https://www.anxietyuk.org.uk/)
+- [BEAT - Eating Disorders](https://www.beateatingdisorders.org.uk/)
+- [The Calm Zone](https://www.thecalmzone.net/)
+- [FRANK - Talk to Frank](https://www.talktofrank.com/)
+- [Hearing Voices](https://www.hearing-voices.org/#content)
+- [Mind Out](https://mindout.org.uk/)
+- [No Panic](https://nopanic.org.uk/)
+- [Student Minds](https://www.studentminds.org.uk/)
+- [Young Minds](https://www.youngminds.org.uk/)
 
 ### YouTube Resources
 
-- [BrightenUp! Kids - 6-Minute Self-Soothing Meditation For Children Using The Butterfly Hug Technique.](https://www.youtube.com/watch?v=H9Hnisaqlns)
-- [BrightenUp! Kids - 7-Minute Emotion Regulating Activity To Help Kids Calm Down!](https://www.youtube.com/watch?v=ORRdf_nLc_I)
-- [Everyday Speech - Box Breathing Practice - YouTube](https://www.youtube.com/watch?v=ZfMA0YA1IVA)
-- [Humanitarian Academy - Child Safeguarding](https://www.youtube.com/watch?v=Pg8xB5spnb4)
-- [NAS - What is Autism?](https://www.youtube.com/watch?v=Lk4qs8jGN4U&t=31s)
+- [Mind - What are mental health problems?](https://www.youtube.com/watch?v=AUWhdmKyOE8)
+- [Mental Illness Causes, Symptoms, Diagnosis, and Treatment | Merck Manual Consumer Version](https://www.youtube.com/watch?v=-squqwaTuxo)
+- [What is depression? - Helen M. Farrell](https://www.youtube.com/watch?v=z-IR48Mb3W0)
+- [How the body keeps the score on trauma | Bessel van der Kolk for Big Think+](https://www.youtube.com/watch?v=iTefkqYQz8g)
+- [Are you okay? | Award-Winning Short Film](https://www.youtube.com/watch?v=tJsGGsPNakw)
+- [TED-ED - Is it normal to talk to yourself?](https://www.youtube.com/watch?v=iNyUmbmQQZg)
+- [What's normal anxiety - and what's an anxiety disorder? | Body Stuff with Dr. Jen Gunter | TED](https://www.youtube.com/watch?v=xsEJ6GeAGb0)
+- [TED-ED - How stress affects your brain - Madhumita Murgia](https://www.youtube.com/watch?v=WuyPuH9ojCE)
+- [Mindfulness How: Practice Being Mindful | DBT Skills from Experts](https://www.youtube.com/watch?v=oYdrMpnE93s)
 
 
 <hr>

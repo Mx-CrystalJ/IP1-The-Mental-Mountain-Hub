@@ -28,10 +28,8 @@ Live project: <a href="https://mx-crystalj.github.io/IP1-The-Mental-Mountain-Hub
       - [Wireframes](#wireframes)
 * [Features](#features)
   - [General Features](#general-features)
-    - [Navigation and Hero Section](#navigation-and-hero-section)
+    - [Navigation and Carousel Section](#navigation-and-carousel-section)
     - [Bootstrap Cards](#bootstrap-cards)
-    - [Policies Section](#policies-section)
-    - [Footer](#footer)
     - [Links and Buttons](#links-and-buttons)
   - [Resnposive Design](#responsive-design)
 * [Built With](#built-with)
@@ -166,22 +164,22 @@ When coding the project, receiving feedback and implementing the [Bootstrap Fram
 
 Adjustments:
 
-- Adding a button within the hero section.<br>
-This was done to provide the user an easy navigation link to the resources section they would most likely be seeking to interact with when needing immediate help.
+- Adding Grid to page instead of just resources.<br>
+This was done to provide the user an easy navigation through sections they would most likely be seeking to interact with when needing immediate help.
 
-- Changing the Navbar to the top of the page instead of under the hero section.<br>
+- Changing the Navbar to the top of the page instead of under the Slider section.<br>
 This decision was made as a result of personal reflection and user feedback to provide a more enjoyable user experience because the hero section doesn't include the sites name and when viewed on an iPad or mobile device the section takes the users attention.
 
-#### Navigation and Hero Section
+#### Navigation and Carousel Section
 
-I chose to use a bold and welcoming hero section for the start of the page using the [Bootstrap Jumbotron](https://getbootstrap.com/docs/5.3/examples/jumbotron/)
+I chose to use a bold and welcoming slider section for the start of the page using the [Bootstrap Carousel](https://getbootstrap.com/docs/5.3/components/carousel/)
 
-This gives a clear indication of the content by using a Slider Jumbotron to show positive quotes as well as imagery that links to the brand and identity of the organisation.
+This gives a clear indication of the content by using a Carousel Jumbotron to show positive quotes as well as imagery that links to the brand and identity of the organisation.
 
 The navigation bar is a Bootstrap component that allows for easy navigation around the site using a familiar method for a positive user experience that is resposive.
 
-![Navigation & Hero Desktop](/documentation/images/Desktop%20Hero%20+%20Nav.png)
-![Navigation & Hero Mobile/Tablet](/documentation/images/Phone%20+%20Tablet%20Hero%20+%20Nav.png)
+![Navigation & Carousel Desktop](/documentation/images/Desktop%20Hero%20+%20Nav.png)
+![Navigation & Carousel Mobile/Tablet](/documentation/images/Phone%20+%20Tablet%20Hero%20+%20Nav.png)
 
 #### Bootstrap Cards
 
@@ -277,6 +275,12 @@ This included regular debugging and testing using the Dev Tools as provided with
 
 [CSS Validation](https://jigsaw.w3.org/css-validator/)<br>
 ![CSS Validation](/documentation/images/CSS%20Validator%202.png)
+
+Several bugs appeared in the duration of the project:
+- Centering Carousel + took up too much space on desktop = adding white space on sides + CSS media query. 
+- Favicon not loading = moved to root directory.
+- Desktop view grid errors = deleted align-items-center.
+- Vid lengths too big = removed frameborder.
 
 <hr>
 <p align="right"><a href="#the-mental-mountain-hub">Back To Top</a></p>
