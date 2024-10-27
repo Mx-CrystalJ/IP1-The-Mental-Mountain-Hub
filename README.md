@@ -190,7 +190,7 @@ I chose the [Bootstrap Card](https://getbootstrap.com/docs/5.3/components/card/)
 Within these sections I have given additional resources and links via buttons for ease.
 
 ![Tips Cards](/documentation/images/Tips%20+%20Common%20Issues%20Card.png)
-![Resources Cards](X)
+![Resources Cards](/documentation/images/Resources%20Card.png)
 
 #### Links and Buttons
 
