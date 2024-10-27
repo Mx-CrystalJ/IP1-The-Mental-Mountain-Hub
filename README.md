@@ -185,45 +185,27 @@ The navigation bar is a Bootstrap component that allows for easy navigation arou
 
 #### Bootstrap Cards
 
-I chose the [Bootstrap Card](https://getbootstrap.com/docs/5.3/components/card/) feature for the main content of the page as this allowed for a clean organisation of the information. 
+I chose the [Bootstrap Card](https://getbootstrap.com/docs/5.3/components/card/) feature for the Tips + Resources content of the page as this allowed for a clean organisation of the information I wanted for the main content.
 
-Within these sections I have also opted to provide additional resources, links and access to contact modals via buttons for ease.
+Within these sections I have given additional resources and links via buttons for ease.
 
-For balance I also gave the cards a consistent height by adding the `h-100` class.
-
-![Cards](/documentation/images/cards.webp)
-
-#### Policies Section
-
-Mirroring the design of the hero section, I have included a safeguarding policies section for the organisation giving basic details and providing a link to download the policy in full. 
-
-This section not only serves as a vital area for information, but also as a visual divider between the card sections aimed at parents and their families. 
-
-![Policies Section](/documentation/images/policies.webp)
-
-#### Footer
-
-For the footer again I implemented a [Bootstrap](https://getbootstrap.com/docs/5.3/examples/footers/) component.
-
-Here I have used the bold contrast of the purple to distinguish it apart from the rest of the page allowing it to be easily identifiable across the whole website.
-
-The information provided in this section is considered somewhat standard and provides for a user experience that is easy to understand. 
+![Tips Cards](/documentation/images/Tips%20+%20Common%20Issues%20Card.png)
+![Resources Cards](X)
 
 #### Links and Buttons
 
-Although the page used a variety of colours for buttons to adhere to contrast requirements, each link and button does maintain a level of consistency by utilising the `var(--blue)` as part of it's `:hover` status in some way.
+Although the page used a variety of colours for buttons to adhere to contrast requirements, each link and button does maintain a level of consistency.
 
 <hr>
 <p align="right"><a href="#the-mental-mountain-hub">Back To Top</a></p>
 
 ### Responsive Design
 
-Utilising the [Bootstrap Framework](https://getbootstrap.com/docs/5.3/getting-started/introduction/) allowed for an implementation that is responsive without the need for additional CSS or media queries.
+Using the [Bootstrap Framework](https://getbootstrap.com/docs/5.3/getting-started/introduction/) grid allowed for an implementation that is responsive but additional CSS + media queries were needed for presentation.
 
 Though it took some experimentation and troubleshooting, I have been able to create a page that is fully responsive to modern standards.
 
-This has proven to be a very valuable learning experience in the use of frameworks.
-As a result of my debugging within Dev Tools in order to identify and resolve responsiveness issues I believe I have a much greater understanding of how to adpat Bootstrap for use within future projects. 
+As a result of my debugging within Dev Tools and help from other students to identify and resolve responsiveness issues I believe I have a better understanding of how to use Bootstrap for future projects.
   
 During testing it was apparent that `display-6` was too large for the navbar brand text so this was removed to increase responsivity.
 
@@ -256,7 +238,7 @@ During testing it was apparent that `display-6` was too large for the navbar bra
 ### Tools and Programs
 
 <a href="https://balsamiq.com/wireframes/" target="_blank">![Static Badge](https://img.shields.io/badge/Balsamiq-Wireframes-grey?logoColor=%23ffffff&color=%23CC0100)</a>
-<a href="https://ezgif.com/maker" target="_blank">![Static Badge](https://img.shields.io/badge/Ezgif-GIF_Maker-grey?logoColor=%23ffffff&color=%23ffffff)</a>
+<a href="https://canva.com/" target="_blank">![Static Badge](https://img.shields.io/badge/Canva-grey?logoColor=%23ffffff&color=%23CC0100)</a>
 
 
 <hr>
