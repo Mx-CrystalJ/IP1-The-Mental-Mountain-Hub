@@ -64,7 +64,7 @@ The final deployment fufils the requirements being responsive to modern device s
 
 ## UX Design
 
-## User Stories 
+## User Stories
 
 Adults - I want to know the best way to improve and learn about my mental health so I can feel confident knowing that I am doing everything I can beyond waiting for referals to services. I want to easily find resources to support my self-help journey and possibly find other services that can be used.
 
@@ -78,7 +78,7 @@ Medical Professionals - I want to be able to reassure paitents that there are se
 
 ## Colors
 
-Color selection is a key component to any design process, however with the nature of the project this consideration is even greater because of the improtnt nature of mental health to the end user, there is a possibilty for negatively impacting their well-being, mental health and contibuting to trauma by overwhlming them hence the need for using as little colour for the bqacground as necessary to keep the flow.
+Color selection is a key component to any design process, however with the nature of the project this consideration is even greater because of the improtant nature of mental health to the end user, there is a possibilty for negatively impacting their well-being, mental health and contibuting to trauma by overwhlming them hence the need for using as little colour for the background as necessary to keep the flow.
 
 The artwork of this project was essential in creating a welcoming and appropriate page for the end user and their specific needs. Combining general color theory in white space, mental health specific color theory, my own personal experience of bettering mental health, I was able to determine an appropriate color scheme that is aesthetically pleasing, calming and engaging.
 
@@ -90,12 +90,12 @@ Both the [WebAIM](https://webaim.org/resources/contrastchecker/) and the [Adobe]
 - Cyan `#a9ebe8` `--cyan light blue`
 - Light Blue `#E4B7E5` `--light blue`
 - White `#ffffff` `--white`
+- Light Green `#efefeb` `--light green`
 
-
-Due to the potential impact of color on autistic persons, additional research and feedback was sought out in order to ensure an appropriate selection was made for this project. Aditional research in the documentation for additional [research](/documentation/research.md).
+Due to the potential impact of color on mental health, additional research and feedback was sought out in order to ensure an appropriate selection was made for this project. Aditional research in the documentation for additional [research](/documentation/research.md).
 
 <hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+<p align="right"><a href="#the-mental-mountain-hub">Back To Top</a></p>
 
 ## Fonts
 
@@ -107,7 +107,7 @@ Two sans-serif fonts were selected for the project, and implemented via [Google 
 [Prompt](https://fonts.google.com/specimen/Prompt) is the primary content font ensuring content importance and complementing the Lexend Giga font choice by being slightly bigger and thicker than the headings.
 
 <hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+<p align="right"><a href="#the-mental-mountain-hub">Back To Top</a></p>
 
 ### Wireframes
 
@@ -124,7 +124,7 @@ These low-fidelity wireframes have been created using [Balsamiq](https://balsami
 ![Desktop Wireframe 2](/documentation/images/wireframe-desktop-2.webp)
 
 <hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+<p align="right"><a href="the-mental-mountain-hub">Back To Top</a></p>
 
 ## Imagery
 
@@ -146,8 +146,6 @@ This selection of images fulfilled the criteria set out and offered further insp
 - The images available using this character was great in number (more than included here) which would allow for relevant inclusion across the project and future implementation
 - The images not only adhered to the color requirements, but also informed minor adjustments to the color palette
 
-Before implementing the images into the project I used [Affinity Photo 2](https://affinity.serif.com/en-gb/photo/) to make some minor adjustments. This included removing background colors, removing hearts that felt inappropriate to the end user and converting them to webp formatting to follow current standards.
-
 ![Astronaut Images](/documentation/images/images.gif)
 - Astronaut Artwork: Designed by [Freepik](http://www.freepik.com/) - Following [Attributation Policy](https://support.freepik.com/s/article/Attribution-How-when-and-where?language=en_US)
 
@@ -155,7 +153,7 @@ During my process of seeking out feedback for UX my decision to include the astr
 ![Mobile Wireframe](/documentation/images/space_mumma.png)
 
 <hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+<p align="right"><a href="#the-mental-mountain-hub">Back To Top</a></p>
 
 ## Features
 
@@ -216,7 +214,7 @@ The information provided in this section is considered somewhat standard and pro
 Although the page used a variety of colours for buttons to adhere to contrast requirements, each link and button does maintain a level of consistency by utilising the `var(--blue)` as part of it's `:hover` status in some way.
 
 <hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+<p align="right"><a href="#the-mental-mountain-hub">Back To Top</a></p>
 
 ### Responsive Design
 
@@ -236,7 +234,7 @@ During testing it was apparent that `display-6` was too large for the navbar bra
 ![Dektop](/documentation/images/desktop.webp)<br>
 
 <hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+<p align="right"><a href="#the-mental-mountain-hub">Back To Top</a></p>
 
 
 ## Built With
@@ -262,7 +260,7 @@ During testing it was apparent that `display-6` was too large for the navbar bra
 
 
 <hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+<p align="right"><a href="#the-mental-mountain-hub">Back To Top</a></p>
 
 ## Deployment
 
@@ -286,7 +284,7 @@ Additional information on the deployment process can be found on the official [G
 
 
 <hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+<p align="right"><a href="#the-mental-mountain-hub">Back To Top</a></p>
 
 ## Testing
 
@@ -304,37 +302,34 @@ This included regular debugging and testing using the Dev Tools as provided with
 ![Lighthouse](/documentation/images/lighthouse.webp)
 
 <hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+<p align="right"><a href="#the-mental-mountain-hub">Back To Top</a></p>
 
 ## Credits
 
 ### Code
 
 Project and primary learning supplied by [Code Institute](https://codeinstitute.net/ie/)<br>
-Supplemental learning resources directly used / referenced within the project:
+Supplemental learning resources within the project:
 
 - 
 - [Bootstrap Docs](https://getbootstrap.com/docs/5.3)
-- [Bootstrap 5 Crash Course Tutorial #9 - Navbars - YouTube](https://www.youtube.com/watch?v=7AT1X9Z41sA&t=677s)
-- [CSS Variables - The var() function](https://www.w3schools.com/css/css3_variables.asp)
-- [Gemini](https://gemini.google.com) as a learning tool, no code was directly used
-- [Make cards same height side-by-side in Bootstrap 5 - YouTube](https://www.youtube.com/watch?v=wolSRMGJ-Ls)
-- [Mozilla - mdn web docs](https://developer.mozilla.org/)
+- [Gemini](https://gemini.google.com) as a learning tool, no code was directly used.
 
-All additional sources that complemented my learning can be round within additional [research](/documentation/research.md).
+All additional sources [research](/documentation/research.md).
 
 ### Content Research
 
-The additional [research](/documentation/research.md) has been compiled into list and can be found within the documentation folder of this repo. 
+The additional [research](/documentation/research.md) is listed and can be found within the documentation folder of this repo.
 
 ### Media
 
 - Static badges for README documentation [Shields.io](https://shields.io/badges/static-badge) & [Simple Icons](https://simpleicons.org/)
-- Youtube 
+- Youtube (https://youtube.com/)
+- Canva (https://canva.com/)
 
 ### Acknowledgements
 
-- 
+- Mathew and Wai Yi Wong for contributing to my debugging process.
 
 <hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+<p align="right"><a href="#the-mental-mountain-hub">Back To Top</a></p>
