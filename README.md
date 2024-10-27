@@ -206,14 +206,12 @@ Using the [Bootstrap Framework](https://getbootstrap.com/docs/5.3/getting-starte
 Though it took some experimentation and troubleshooting, I have been able to create a page that is fully responsive to modern standards.
 
 As a result of my debugging within Dev Tools and help from other students to identify and resolve responsiveness issues I believe I have a better understanding of how to use Bootstrap for future projects.
-  
-During testing it was apparent that `display-6` was too large for the navbar brand text so this was removed to increase responsivity.
 
-[Am I Responsive](https://ui.dev/amiresponsive?url=https://therickyroy.github.io/astronauts-for-autism/)<br>
-![Am I Responsive](/documentation/images/responsive.webp)<br>
-![Mobile](/documentation/images/mobile.webp)<br>
-![ipad Mini](/documentation/images/ipad-mini.webp)<br>
-![Dektop](/documentation/images/desktop.webp)<br>
+[Am I Responsive](https://ui.dev/amiresponsive?url=https://mx-crystalj.github.io/IP1-The-Mental-Mountain-Hub/)<br>
+![Am I Responsive](/documentation/images/Responsive%20Full.png)<br>
+![Mobile](/documentation/images/Responsive%20Mobile.png)<br>
+![ipad Mini](/documentation/images/Responsive%20iPad.png)<br>
+![Dektop](/documentation/images/Responsive%20Desktop.png)<br>
 
 <hr>
 <p align="right"><a href="#the-mental-mountain-hub">Back To Top</a></p>
@@ -275,13 +273,10 @@ Testing and validation os the website was carried out throughout the course of t
 This included regular debugging and testing using the Dev Tools as provided within Chrome Browser.
 
 [HTML Validation](https://validator.w3.org/)<br>
-![HTML Validation](/documentation/images/validation-html.webp)
+![HTML Validation](/documentation/images/HTML%20Validator%201.png)
 
 [CSS Validation](https://jigsaw.w3.org/css-validator/)<br>
-![CSS Validation](/documentation/images/validation-css.webp)
-
-[Lighthouse](https://developer.chrome.com/docs/lighthouse/overview)<br>
-![Lighthouse](/documentation/images/lighthouse.webp)
+![CSS Validation](/documentation/images/CSS%20Validator%202.png)
 
 <hr>
 <p align="right"><a href="#the-mental-mountain-hub">Back To Top</a></p>
@@ -295,7 +290,7 @@ Supplemental learning resources within the project:
 
 - 
 - [Bootstrap Docs](https://getbootstrap.com/docs/5.3)
-- [Gemini](https://gemini.google.com) as a learning tool, no code was directly used.
+- [Gemini](https://gemini.google.com) as a learning and content creation tool, no code was directly used.
 
 All additional sources [research](/documentation/research.md).
 

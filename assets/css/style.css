@@ -42,6 +42,9 @@ p {
     font-weight: 800;
 }
 
+.palign {
+    align-items: baseline;
+}
 
 #carouselExampleFade {
     background-image: url(/assets/images/73bfb902-44a1-4f97-b790-0d6099074d69.jpg);
@@ -72,18 +75,6 @@ li {
 }
 
 
-
-
-
-.card-columns {
-    @include media-breakpoint-only(lg) {
-        column-count: 4;
-    }
-
-    @include media-breakpoint-only(xl) {
-        column-count: 5;
-    }
-}
 
 /* Media query: large or landscape phones (576px and up) */
 @media screen and (min-width: 576px) {
